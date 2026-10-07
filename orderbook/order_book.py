@@ -127,7 +127,7 @@ class OrderBook:
 
 
     def display_trades(self):
-        print("=========== TRADE HISTORY ==========")
+        print("=====  ====== TRADE HISTORY ==========")
         print()
         print(f"Buy Order | Sell Order | Quantity | Price")
 
